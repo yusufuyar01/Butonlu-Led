@@ -1,0 +1,13 @@
+int led=8;//ledi 8. pine bağladık ve tanımladık.
+
+void setup()
+{
+  pinMode(led, OUTPUT);//çıkıiın 8. pinden(led) olacağını belirttik. 
+}
+
+void loop()
+{
+  digitalWrite(led, HIGH);//ledin yanması komutunu verdik. Böylece her tüşa basıldığında led anlık yanacaktır.
+  
+  
+}
