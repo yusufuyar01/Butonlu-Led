@@ -32,6 +32,6 @@ void loop() {
 }
  ```
 ## Kullanım
-Arduino kartınızı bilgisayara bağlayın.
-Arduino IDE'sini açın ve kodu yükleyin.
-LED'in yandığını göreceksiniz.
+* Arduino kartınızı bilgisayara bağlayın.
+* Arduino IDE'sini açın ve kodu yükleyin.
+* LED'in yandığını göreceksiniz.
