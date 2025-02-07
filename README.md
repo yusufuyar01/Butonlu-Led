@@ -30,7 +30,7 @@ void loop() {
   // delay(1000); // 1 saniye bekle (isteğe bağlı)
   // digitalWrite(led, LOW); // LED'i söndür (isteğe bağlı)
 }
- 
+ ```
 ## Kullanım
 Arduino kartınızı bilgisayara bağlayın.
 Arduino IDE'sini açın ve kodu yükleyin.
